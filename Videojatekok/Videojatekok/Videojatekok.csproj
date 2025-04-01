@@ -70,7 +70,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MODELS\Ertekelesek.cs" />
+    <Compile Include="MODELS\Fejlesztok.cs" />
+    <Compile Include="MODELS\Felhasznalok.cs" />
     <Compile Include="MODELS\Jatekok.cs" />
+    <Compile Include="MODELS\Jatek_Platform.cs" />
+    <Compile Include="MODELS\Platformok.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
