@@ -10,7 +10,9 @@ namespace Videojatekok.MODELS
     {
         public int Ertekeles_id { get; set; }
         public int Felhasznalo_id { get; set; }
+        public virtual Felhasznalok Felhasznalok { get; set; }
         public int Jatek_id { get; set; }
+        public virtual Jatekok Jatekok { get; set; }
         public string Szoveges_velemeny { get; set; }
         public int Datum { get; set; }
         public int Like_szam {  get; set; }
