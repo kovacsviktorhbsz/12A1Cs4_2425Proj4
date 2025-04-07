@@ -23,31 +23,6 @@ SET time_zone = "+00:00";
 
 -- --------------------------------------------------------
 
---
--- Tábla szerkezet ehhez a táblához `ertekelesek`
---
-
-CREATE TABLE `ertekelesek` (
-  `ertekeles_id` int(11) NOT NULL,
-  `felhasznalo_id` int(11) DEFAULT NULL,
-  `jatek_id` int(11) DEFAULT NULL,
-  `ertekeles` int(11) DEFAULT NULL CHECK (`ertekeles` between 1 and 10),
-  `szoveges_velemeny` text DEFAULT NULL,
-  `datum` datetime DEFAULT current_timestamp(),
-  `like_szam` int(11) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- A tábla adatainak kiíratása `ertekelesek`
---
-
-INSERT INTO `ertekelesek` (`ertekeles_id`, `felhasznalo_id`, `jatek_id`, `ertekeles`, `szoveges_velemeny`, `datum`, `like_szam`) VALUES
-(1, 1, 2, 9, 'Nagyon jó játék, szép grafika és izgalmas harcok.', '2024-03-10 00:00:00', 15),
-(2, 2, 5, 8, 'Jó történet, de a harcrendszer kicsit nehézkes.', '2024-03-12 00:00:00', 8),
-(3, 3, 1, 10, 'Az egyik legjobb játék, amit valaha játszottam!', '2024-03-15 00:00:00', 22),
-(4, 4, 3, 7, 'Tetszett, de lehetett volna hosszabb a sztori.', '2024-03-18 00:00:00', 5),
-(5, 5, 4, 6, 'Nem rossz, de vannak jobb alternatívák.', '2024-03-20 00:00:00', 3),
-(6, 6, 6, 9, 'Nagyon szórakoztató és jó hangulatú játék.', '2024-03-22 00:00:00', 12);
 
 -- --------------------------------------------------------
 
@@ -59,53 +34,31 @@ CREATE TABLE `fejlesztok` (
   `fejleszto_id` int(11) NOT NULL,
   `nev` varchar(255) DEFAULT NULL,
   `orszag` varchar(100) DEFAULT NULL,
-  `alapitas_ev` int(11) DEFAULT NULL,
-  `weboldal` varchar(255) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+  `alapitas_ev` int(11) DEFAULT NULL
+) 
+ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- A tábla adatainak kiíratása `fejlesztok`
 --
 
-INSERT INTO `fejlesztok` (`fejleszto_id`, `nev`, `orszag`, `alapitas_ev`, `weboldal`) VALUES
-(1, 'FromSoftware', 'Japán', 1986, 'https://www.fromsoftware.jp/ww/'),
-(2, 'Capcom', 'Japán', 1979, 'https://www.capcom.com/'),
-(3, 'Larian Studios', 'Belgium', 1996, 'https://larian.com/'),
-(4, 'Sucker Punch Productions', 'USA', 1997, 'https://www.suckerpunch.com/'),
-(5, 'Omocat', 'USA', NULL, 'https://www.omocat.com/'),
-(6, 'Future Cat', 'Ismeretlen', NULL, NULL),
-(7, 'Toby Fox', 'USA', NULL, 'https://tobyfox.bandcamp.com/'),
-(8, 'Arsi \"Hakita\" Patala', 'Ismeretlen', NULL, NULL),
-(9, 'Edmund McMillen', 'USA', NULL, 'https://edmundmcmillen.com/'),
-(10, 'Arkane Studios', 'Franciaország', 1999, 'https://www.arkane-studios.com/'),
-(11, 'Treyarch', 'USA', 1996, 'https://www.treyarch.com/'),
-(12, 'Riot Games', 'USA', 2006, 'https://www.riotgames.com/'),
-(13, 'Psyonix', 'USA', 2000, 'https://www.psyonix.com/');
+INSERT INTO `fejlesztok` (`fejleszto_id`, `nev`, `orszag`, `alapitas_ev`) VALUES
+(1, 'FromSoftware', 'Japán', 1986),
+(2, 'Capcom', 'Japán', 1979),
+(3, 'Larian Studios', 'Belgium', 1996),
+(4, 'Sucker Punch Productions', 'USA', 1997),
+(5, 'Omocat', 'USA', NULL),
+(6, 'Future Cat', 'Ismeretlen', NULL),
+(7, 'Toby Fox', 'USA', NULL),
+(8, 'Arsi \"Hakita\" Patala', 'Ismeretlen', NULL),
+(9, 'Edmund McMillen', 'USA', NULL),
+(10, 'Arkane Studios', 'Franciaország', 1999),
+(11, 'Treyarch', 'USA', 1996),
+(12, 'Riot Games', 'USA', 2006),
+(13, 'Psyonix', 'USA', 2000);
 
 -- --------------------------------------------------------
 
---
--- Tábla szerkezet ehhez a táblához `felhasznalok`
---
-
-CREATE TABLE `felhasznalok` (
-  `felhasznalo_id` int(11) NOT NULL,
-  `felhasznalonev` varchar(100) DEFAULT NULL,
-  `email` varchar(255) DEFAULT NULL,
-  `regisztracio_datum` datetime DEFAULT current_timestamp()
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- A tábla adatainak kiíratása `felhasznalok`
---
-
-INSERT INTO `felhasznalok` (`felhasznalo_id`, `felhasznalonev`, `email`, `regisztracio_datum`) VALUES
-(1, 'Gamer01', 'gamer01@example.com', '2023-01-15 00:00:00'),
-(2, 'ProPlayer99', 'proplayer99@example.com', '2022-11-30 00:00:00'),
-(3, 'NoobMaster', 'noobmaster@example.com', '2024-02-10 00:00:00'),
-(4, 'EpicGamer', 'epicgamer@example.com', '2021-07-22 00:00:00'),
-(5, 'CasualPlayer', 'casualplayer@example.com', '2023-05-05 00:00:00'),
-(6, 'SpeedRunner', 'speedrunner@example.com', '2020-09-14 00:00:00');
 
 -- --------------------------------------------------------
 
@@ -128,21 +81,21 @@ CREATE TABLE `jatekok` (
 --
 
 INSERT INTO `jatekok` (`jatek_id`, `cim`, `kiadasi_ev`, `fejleszto_id`, `mufaj`, `ar`, `multiplayer`) VALUES
-(1, 'Elden Ring', 2022, 1, 'Action role-playing', '17990 Ft', 'van'),
-(2, 'Monster Hunter: World', 2018, 2, 'Action role-playing', '8990 Ft', 'van'),
-(3, 'Baldur\'s Gate 3', 2023, 3, 'Role-playing, turn-based combat', '21990 Ft', 'van'),
-(4, 'Bloodborne', 2015, 1, 'Action role-playing', '5990 Ft', 'van'),
-(5, 'Ghost of Tsushima', 2020, 4, 'Action-adventure', '16990 Ft', 'nincs'),
-(6, 'Omori', 2020, 5, 'Role-playing', '4990 Ft', 'nincs'),
-(7, 'Oneshot', 2016, 6, 'Adventure, puzzle', '2990 Ft', 'nincs'),
-(8, 'Undertale', 2015, 7, 'Role-playing', '3990 Ft', 'nincs'),
-(9, 'Ultrakill', 2020, 8, 'First-person shooter', '6490 Ft', 'nincs'),
-(10, 'The Binding of Isaac', 2011, 9, 'Roguelike, action-adventure', '5990 Ft', 'van'),
-(11, 'Deathloop', 2021, 10, 'First-person shooter', '18990 Ft', 'van'),
-(12, 'Resident Evil 4 Remake', 2023, 2, 'Survival horror', '20990 Ft', 'nincs'),
-(13, 'Call of Duty Black Ops 6', 2024, 11, 'First-person shooter', '24990 Ft', 'van'),
-(14, 'Valorant', 2020, 12, 'Tactical shooter', 'Ingyenes', 'van'),
-(15, 'Rocket League', 2015, 13, 'Sports', 'Ingyenes', 'van');
+(1, 'Elden Ring', 2022, 1, 'Action role-playing', '17990', 'van'),
+(2, 'Monster Hunter: World', 2018, 2, 'Action role-playing', '8990', 'van'),
+(3, 'Baldur\'s Gate 3', 2023, 3, 'Role-playing, turn-based combat', '21990', 'van'),
+(4, 'Bloodborne', 2015, 1, 'Action role-playing', '5990', 'van'),
+(5, 'Ghost of Tsushima', 2020, 4, 'Action-adventure', '16990', 'nincs'),
+(6, 'Omori', 2020, 5, 'Role-playing', '4990', 'nincs'),
+(7, 'Oneshot', 2016, 6, 'Adventure, puzzle', '2990', 'nincs'),
+(8, 'Undertale', 2015, 7, 'Role-playing', '3990', 'nincs'),
+(9, 'Ultrakill', 2020, 8, 'First-person shooter', '6490', 'nincs'),
+(10, 'The Binding of Isaac', 2011, 9, 'Roguelike, action-adventure', '5990', 'van'),
+(11, 'Deathloop', 2021, 10, 'First-person shooter', '18990', 'van'),
+(12, 'Resident Evil 4 Remake', 2023, 2, 'Survival horror', '20990', 'nincs'),
+(13, 'Call of Duty Black Ops 6', 2024, 11, 'First-person shooter', '24990', 'van'),
+(14, 'Valorant', 2020, 12, 'Tactical shooter', '0', 'van'),
+(15, 'Rocket League', 2015, 13, 'Sports', '0', 'van');
 
 -- --------------------------------------------------------
 
@@ -222,26 +175,11 @@ INSERT INTO `platformok` (`platform_id`, `nev`) VALUES
 --
 
 --
--- A tábla indexei `ertekelesek`
---
-ALTER TABLE `ertekelesek`
-  ADD PRIMARY KEY (`ertekeles_id`),
-  ADD KEY `felhasznalo_id` (`felhasznalo_id`),
-  ADD KEY `jatek_id` (`jatek_id`);
-
---
 -- A tábla indexei `fejlesztok`
 --
 ALTER TABLE `fejlesztok`
   ADD PRIMARY KEY (`fejleszto_id`);
 
---
--- A tábla indexei `felhasznalok`
---
-ALTER TABLE `felhasznalok`
-  ADD PRIMARY KEY (`felhasznalo_id`),
-  ADD UNIQUE KEY `felhasznalonev` (`felhasznalonev`),
-  ADD UNIQUE KEY `email` (`email`);
 
 --
 -- A tábla indexei `jatekok`
@@ -271,8 +209,7 @@ ALTER TABLE `platformok`
 --
 -- AUTO_INCREMENT a táblához `ertekelesek`
 --
-ALTER TABLE `ertekelesek`
-  MODIFY `ertekeles_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+
 
 --
 -- AUTO_INCREMENT a táblához `fejlesztok`
@@ -283,8 +220,7 @@ ALTER TABLE `fejlesztok`
 --
 -- AUTO_INCREMENT a táblához `felhasznalok`
 --
-ALTER TABLE `felhasznalok`
-  MODIFY `felhasznalo_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+
 
 --
 -- AUTO_INCREMENT a táblához `jatekok`
@@ -302,12 +238,7 @@ ALTER TABLE `platformok`
 -- Megkötések a kiírt táblákhoz
 --
 
---
--- Megkötések a táblához `ertekelesek`
---
-ALTER TABLE `ertekelesek`
-  ADD CONSTRAINT `ertekelesek_ibfk_1` FOREIGN KEY (`felhasznalo_id`) REFERENCES `felhasznalok` (`felhasznalo_id`) ON DELETE CASCADE,
-  ADD CONSTRAINT `ertekelesek_ibfk_2` FOREIGN KEY (`jatek_id`) REFERENCES `jatekok` (`jatek_id`) ON DELETE CASCADE;
+
 
 --
 -- Megkötések a táblához `jatekok`
