@@ -1,0 +1,362 @@
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojat.BE41DAAA.Up2Date
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+C:\Users\András\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+Z:\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CopyComplete
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojat.BE41DAAA.Up2Date
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+C:\suli\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+C:\suli\ikt\proj4 valami\Videojatekok\Videojatekok\obj\Debug\Videojat.BE41DAAA.Up2Date
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CopyComplete
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+C:\Users\na_szoft2006\Desktop\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojat.BE41DAAA.Up2Date
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+C:\Users\András\Desktop\Új mappa\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojat.BE41DAAA.Up2Date
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+C:\Users\András\Desktop\Új mappa (2)\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe.config
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Videojatekok.exe
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Videojatekok.pdb
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\BouncyCastle.Crypto.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\EntityFramework.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\MySql.Data.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Buffers.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Memory.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Ubiety.Dns.Core.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Zstandard.Net.dll
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\EntityFramework.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\EntityFramework.SqlServer.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Google.Protobuf.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\K4os.Hash.xxHash.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\MySql.Data.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\MySql.Data.EntityFramework.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\Renci.SshNet.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Buffers.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Memory.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Numerics.Vectors.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.AssemblyReference.cache
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\MainWindow.g.cs
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\App.g.cs
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.cache
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok_MarkupCompile.lref
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\MainWindow.baml
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok.g.resources
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok.Properties.Resources.resources
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.GenerateResource.cache
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok.csproj.CoreCompileInputs.cache
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojat.BE41DAAA.Up2Date
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok.exe
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\Videojatekok.pdb
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\ImagePopup.g.cs
+C:\suli\ikt\proj4 andras\Videojatekok\Videojatekok\obj\Debug\ImagePopup.baml

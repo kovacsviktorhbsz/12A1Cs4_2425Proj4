@@ -1,0 +1,11 @@
+INSERT INTO `jatekok` (`jatek_id`, `cim`, `kiadasi_ev`, `fejleszto_id`, `mufaj`, `ar`, `multiplayer`) VALUES
+16, 'Assassin’s Creed Origins', 2017, 14,'Action-adventure',19990,nincs
+17, 'Middle-earth: Shadow of War', 2017, 15, 'Action-adventure',16390, nincs
+18, 'Dark Souls 3', 2016, 1, 'Action role-playing', 24590, van
+19, 'Devil May Cry 5', 2019, 2, 'Action-adventure, hack and slash', 2990, van
+20, 'God of War', 2018, 16, 'Action-adventure, hack and slash', 20500, nincs
+
+INSERT INTO `fejlesztok` (`fejleszto_id`, `nev`, `orszag`, `alapitas_ev`) VALUES
+(14, 'Ubisoft','Franciaország', 1984),
+(15, 'Monolith Productions', 'USA', 1994),
+(16, 'Santa Monica Studio', 'USA', 1999);

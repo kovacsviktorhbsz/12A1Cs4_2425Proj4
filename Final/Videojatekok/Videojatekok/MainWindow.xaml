@@ -1,0 +1,173 @@
+﻿<Window x:Class="Videojatekok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Videojatekok"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1200" Background="LightSteelBlue">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="lbJatekList" Grid.Column="1" 
+         FontSize="20" Margin="20" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="5" SelectionChanged="lbJatekList_SelectionChanged"/>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="btnTitok" Grid.Column="9" Grid.Row="9" Margin="25,50,0,0" Content="click me" FontSize="8" Click="btnTitok_Click"/>
+        </Grid>
+        <Grid Grid.Column="0" Margin="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Column="0" Grid.Row="0"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Azon:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="1"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Név:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="2"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Megjelenés éve:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="3"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Műfaj:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="4"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Ár:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="5"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Multiplayer:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="6"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Fejlesztő neve:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="7"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Ország:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBlock Grid.Column="0" Grid.Row="8"
+               Grid.ColumnSpan="2"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               Text="Játékstúdió alapítás éve:" FontSize="20"
+               FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBox Grid.Column="2" Grid.Row="0"
+             Grid.ColumnSpan="2" x:Name="tbId"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="1"
+             Grid.ColumnSpan="2" x:Name="tbNev"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="2"
+             Grid.ColumnSpan="2" x:Name="tbEv"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="3"
+             Grid.ColumnSpan="2" x:Name="tbMufaj"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="4"
+             Grid.ColumnSpan="2" x:Name="tbAr"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="5"
+             Grid.ColumnSpan="2" x:Name="tbMultiplayer"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="6"
+             Grid.ColumnSpan="2" x:Name="tbFejNev"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="7"
+             Grid.ColumnSpan="2" x:Name="tbFejOrszag"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3"/>
+            <TextBox Grid.Column="2" Grid.Row="8"
+             Grid.ColumnSpan="2" x:Name="tbAlapEv"
+             VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3"/>
+
+            <TextBlock Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2" Text="Ár lekérdezés (szám)" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold"
+               FontFamily="Comic Sans MS"/>
+            <TextBox Grid.Column="2" Grid.Row="9"  x:Name="tbMinAr" VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3" Text="Min" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+            <TextBox Grid.Column="3" Grid.Row="9"  x:Name="tbMaxAr" VerticalAlignment="Center" FontSize="20" Margin="5" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3" Text="Max" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+
+            <Button Grid.Column="0" Grid.Row="10"  x:Name="btnCreate" Content="Create" FontSize="20" Margin="5" Click="btnCreate_Click" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3" FontWeight="Bold"/>
+            <Button Grid.Column="1" Grid.Row="10"  x:Name="btnRead" Content="Read" FontSize="20" Margin="5" Click="btnRead_Click" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3" FontWeight="Bold"/>
+            <Button Grid.Column="2" Grid.Row="10"  x:Name="btnUpdate" Content="Update" FontSize="20" Margin="5" Click="btnUpdate_Click" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3" FontWeight="Bold"/>
+            <Button Grid.Column="3" Grid.Row="10"  x:Name="btnDelete" Content="Delete" FontSize="20" Margin="5" Click="btnDelete_Click" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3" FontWeight="Bold"/>
+
+            <Button Grid.Column="0" Grid.Row="11" x:Name="btn1" Content="Ár átlag" FontSize="20" Margin="5" Click="btn1_Click" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3" FontWeight="Bold"/>
+            <Button Grid.Column="1" Grid.Row="11" x:Name="btn2" Content="Idős stúdió" FontSize="20" Margin="5" Click="btn2_Click" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3" FontWeight="Bold"/>
+            <Button Grid.Column="2" Grid.Row="11" x:Name="btn3" Content="Régi játék" FontSize="20" Margin="5" Click="btn3_Click" FontFamily="Comic Sans MS" Background="Beige" BorderBrush="CornflowerBlue" BorderThickness="3" FontWeight="Bold"/>
+            <Button Grid.Column="3" Grid.Row="11" x:Name="btn4" Content="Stúdiók" FontSize="20" Margin="5" Click="btn4_Click" FontFamily="Comic Sans MS" Background="LightBlue" BorderBrush="LightCyan" BorderThickness="3" FontWeight="Bold"/>
+
+        </Grid>
+    </Grid>
+</Window>
